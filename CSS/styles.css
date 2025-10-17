@@ -1,7 +1,12 @@
 *{
     font-family: "Arimo", serif;
 }
-
+.nav-div{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
 
 .logo{
     width: 45px;
